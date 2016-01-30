@@ -1,7 +1,7 @@
 name: Shiggy.com
 favicon: null
-layout_spectrum: 0.3011956310365349
-typography_spectrum: 0.8825778672471642
+layout_spectrum: 0.00828
+typography_spectrum: 0.8463
 title: Shiggy.com
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#0b010a'
+    - '#735150'
+    - '#7f2928'
+    - '#2f3c34'
+    - '#ce8b5e'
   brandStrength: 0.25561164575628936
   lightness: 0.8244452620856464
-  saturation: 0.9240264818072319
+  saturation: 0
   rhythmicContrast: 0.6870792421977967
 purpose: []
