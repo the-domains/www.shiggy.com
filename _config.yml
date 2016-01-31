@@ -23,7 +23,7 @@ color:
     - '#40deef'
     - '#c3d5e3'
   brandStrength: 0
-  lightness: 0.5
-  saturation: 0.6875
+  lightness: 0
+  saturation: 0
   rhythmicContrast: 0.5
 purpose: []
